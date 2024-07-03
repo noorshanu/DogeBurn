@@ -26,7 +26,7 @@ function Taxs() {
             data-aos-duration="1500"
           >
             <h2 className=" text-3xl sm:text-6xl font-dream font-bold text-center">
-              $BABY Treasury
+              $DBurn Treasury
             </h2>
 
             <h1 className=" text-3xl sm:text-7xl font-dream font-bold text-center">
