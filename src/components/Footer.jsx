@@ -1,6 +1,5 @@
-import React from "react";
-import { BsTwitterX, BsInstagram, BsFacebook } from "react-icons/bs";
-import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
+import { BsTwitterX,  } from "react-icons/bs";
+import {  FaTelegram } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
 function Footer() {
   return (
@@ -32,7 +31,7 @@ function Footer() {
                 </a>
               </div>
 
-            <p>Copyright 2024 BabyCoin  All Rights Reserved.</p>
+            <p>Copyright 2024 DogeBurn  All Rights Reserved.</p>
             </div>
 
             <div className=" mt-[5%]">
