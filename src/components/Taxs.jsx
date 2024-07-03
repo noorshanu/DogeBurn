@@ -2,11 +2,11 @@ import React from "react";
 
 function Taxs() {
   return (
-    <section className="bg-[#0243b9] pt-[10%] pb-[8%]  relative ">
+    <section className="bg-[#fdea8b] pt-[10%] pb-[8%]  relative ">
       <img
         src="images/mon.png"
         alt=""
-        className=" absolute top-[-10%] left-auto right-[40%] z-10 floating "
+        className=" absolute top-[-10%] left-auto right-[40%] z-10 floating h-[250px] "
         data-aos="fade-up"
         data-aos-duration="1500"
       />

@@ -3,7 +3,7 @@ import CopyAddress from "./CopyAddress";
 function AboutUs() {
   return (
     <section
-      className="bg-[#0243b9] -mt-0 sm:pt-0 pt-3 sm:-mt-2 relative overflow-hidden"
+      className="bg-[#fdea8b] -mt-0 sm:pt-0 pt-3 sm:-mt-2 relative overflow-hidden"
       id="about"
     >
       <img src="images/beach.png" alt="" className=" absolute  top-0 left-0" />
@@ -82,7 +82,7 @@ function AboutUs() {
               Web3, BABYCOIN is setting new standards for integration and
               utility across
             </p>
-            <div className=" grid sm:hidden grid-cols-2 gap-3 items-center justify-center">
+            {/* <div className=" grid sm:hidden grid-cols-2 gap-3 items-center justify-center">
             <div className="">
                 <img
                   src="images/fri1.png"
@@ -124,9 +124,9 @@ function AboutUs() {
                 alt=""
                 className="  h-auto sm:h-[250px] floating "
               />
-            </div>
+            </div> */}
 
-            <div
+            {/* <div
               className=" hidden sm:flex flex-col sm:flex-row items-center justify-center gap-4\2 px-12"
               data-aos="fade-up"
               data-aos-duration="1500"
@@ -152,8 +152,8 @@ function AboutUs() {
                   className="  h-auto sm:h-[250px] floating"
                 />
               </div>
-            </div>
-            <div
+            </div> */}
+            {/* <div
               className=" hidden sm:flex flex-col sm:flex-row items-center justify-center gap-2 px-12 mt-6"
               data-aos="fade-up"
               data-aos-duration="1500"
@@ -177,7 +177,7 @@ function AboutUs() {
                 alt=""
                 className="  h-auto sm:h-[250px] floating "
               />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

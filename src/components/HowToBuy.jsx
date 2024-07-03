@@ -3,7 +3,7 @@ import Slider from "./Slider";
 
 function HowToBuy() {
   return (
-    <section className="bg-[#0243b9] py-[2%]">
+    <section className="bg-[#fdea8b] py-[2%]">
       <div className=" container-wrapper">
         <div className=" flex items-center justify-center gap-4">
           <div
@@ -16,7 +16,7 @@ function HowToBuy() {
               How To BUY
             </h1>
             <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center">
-              $BABY
+              $DogeBurn
             </h2>
           </div>
 
@@ -44,7 +44,7 @@ function HowToBuy() {
               href="/"
               className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-4xl font-bold font-dream"
             >
-              Buy $BABY
+              Buy $DogeBurn
             </a>
           </div>
 

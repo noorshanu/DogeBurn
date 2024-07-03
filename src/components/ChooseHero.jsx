@@ -3,7 +3,7 @@ import React from "react";
 function ChooseHero() {
   return (
     <section
-      className="bg-[#0243b9] pt-[5%] pb-[8%] overflow-x-hidden "
+      className="bg-[#fdea8b] pt-[5%] pb-[8%] overflow-x-hidden "
       id="col"
     >
       <div className=" container-wrapper">
