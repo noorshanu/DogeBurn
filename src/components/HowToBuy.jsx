@@ -42,7 +42,7 @@ function HowToBuy() {
             />
             <a
               href="/"
-              className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-4xl font-bold font-dream"
+              className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-dream"
             >
               Buy $DogeBurn
             </a>
