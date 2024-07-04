@@ -23,7 +23,7 @@ function Footer() {
            
 
                 <a
-                  href="#" target="_blank"
+                  href="https://t.me/dogeburns" target="_blank"
                   rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#061025] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >

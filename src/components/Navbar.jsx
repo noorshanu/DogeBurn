@@ -14,7 +14,7 @@ function Navbar() {
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           {/* <img src="images/WhatsApp_Image_2024-04-22_at_3.39.11_AM-removebg-preview.png" className="h-[100px]" alt=" Logo" /> */}
 
-          <h1 className="v font-dream text-xl sm:text-2xl font-bold ">$DogeBurn</h1>
+          <h1 className="v font-dream text-xl sm:text-2xl font-bold ">$DBurn</h1>
         </a>
 
         </div>
@@ -41,7 +41,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/" target="_blank"  rel="noreferrer"
+                  href="https://t.me/dogeburns" target="_blank"  rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
@@ -104,7 +104,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/" target="_blank" rel="noreferrer"
+                  href="https://t.me/dogeburns" target="_blank" rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
