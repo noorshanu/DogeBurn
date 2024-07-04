@@ -77,10 +77,7 @@ function AboutUs() {
               The Heartbeat of Solana's Meme Community
             </h1>
             <p className=" max-w-4xl mx-auto text-center mt-[2%] mb-[3%] text-xs sm:text-xl font-bold">
-              It is more than just a digital currency; it's a revolution in the
-              Solana ecosystem. Aimed at becoming the premier community coin of
-              Web3, DogeBurn is setting new standards for integration and
-              utility across
+            Doge Burn is a joyful meme token on Solana that loves its community. With every milestone, some tokens are burned, making Doge Burn more rare and valuable. Celebrate milestones, enjoy camaraderie, and watch your tokens grow in value. Join the fun with Doge Burn!
             </p>
             {/* <div className=" grid sm:hidden grid-cols-2 gap-3 items-center justify-center">
             <div className="">

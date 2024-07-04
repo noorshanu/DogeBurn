@@ -16,7 +16,7 @@ function HowToBuy() {
               How To BUY
             </h1>
             <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center">
-              $DogeBurn
+              $DBurn
             </h2>
           </div>
 
@@ -44,7 +44,7 @@ function HowToBuy() {
               href="/"
               className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-dream"
             >
-              Buy $DogeBurn
+              Buy $DBurn
             </a>
           </div>
 
