@@ -79,7 +79,7 @@ function AboutUs() {
             <p className=" max-w-4xl mx-auto text-center mt-[2%] mb-[3%] text-xs sm:text-xl font-bold">
               It is more than just a digital currency; it's a revolution in the
               Solana ecosystem. Aimed at becoming the premier community coin of
-              Web3, BABYCOIN is setting new standards for integration and
+              Web3, DogeBurn is setting new standards for integration and
               utility across
             </p>
             {/* <div className=" grid sm:hidden grid-cols-2 gap-3 items-center justify-center">
