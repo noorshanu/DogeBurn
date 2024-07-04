@@ -55,7 +55,7 @@ const Accordion = () => {
           content="YES, LP locked after seeding on Raydium."
         />
          <AccordionItem
-          title="What is the future of $DogeBurn?"
+          title="What is the future of $DBurn?"
           content="Season 1 of Doge's adventures will be released every week. With multiple fun and new things being worked "
         />
       </div>
