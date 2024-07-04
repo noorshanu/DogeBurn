@@ -14,7 +14,7 @@ function Footer() {
 
               <div className=" flex justify-center sm:justify-start items-center gap-4 text-white mb-6 ml-5">
               <a
-                  href="#"
+                  href="https://x.com/DogeBurn7"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
